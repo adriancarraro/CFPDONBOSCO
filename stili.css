@@ -46,7 +46,25 @@ body {
     font-size: 16px;
 }
 
-card2{
+#card2{
     background-color: #4971FF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+#ultimaimmagine {
+    height: 30px;
+    width: 1400px;
 }
 
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: black;
+}
