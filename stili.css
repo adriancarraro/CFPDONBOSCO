@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.blu {
+    background-color: rgb(25, 25, 255);
+    color: #ffffff;
+}
+
+#fascia-superiore {
+    height: 36px;
+    padding: 5px;
+    padding-right: 100px;
+    font-size: 14px;
+    font-weight: bolder;
+    color: black;
+    background-color: #4971FF;
+}
+
+#fascia-navigazione {
+    height: 91px;
+    padding: 5px;
+    padding-right: 100px;
+    font-size: 16px;
+    color: #4971FF;
+    font-weight: bolder;
+}
+
+card{
+    font-size: 65px;
+}
+
+#bottone{
+    background-color: white;
+    border: rgb(255, 217, 0);
+    color: rgb(255, 217, 0);
+    font-weight: bolder;
+    border-bottom: rgb(255, 217, 0);
+}
+
+#carouselExampleCaptions {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
