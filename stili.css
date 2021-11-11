@@ -28,9 +28,7 @@ body {
     font-weight: bolder;
 }
 
-card{
-    font-size: 65px;
-}
+
 
 #bottone{
     background-color: white;
@@ -43,5 +41,9 @@ card{
 #carouselExampleCaptions {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
+}
+
+card2{
+    background-color: #4971FF;
 }
 
